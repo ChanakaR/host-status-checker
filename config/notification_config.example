@@ -1,0 +1,8 @@
+{
+    "Settings": {
+        "From": "from@example.com",
+        "To": "to@example.com",
+        "Subject" : "The Subject",
+        "Message" : "The Message Body"
+    }
+}

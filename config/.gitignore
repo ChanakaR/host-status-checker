@@ -1,0 +1,3 @@
+!.gitignore
+!notification_config.example
+notification_config.json
